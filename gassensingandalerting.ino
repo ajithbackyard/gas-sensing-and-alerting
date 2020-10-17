@@ -10,7 +10,7 @@ int LED2 = 10;
 
 void setup() {
   
-  pinMode(LED1, );
+  pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
   pinMode(buzzer, OUTPUT);
   pinMode(smokeA0, INPUT);
